@@ -17,3 +17,8 @@ Some questions we will tackle:
 * Do smaller teams contribute to lower stress in the workplace?
 * Is there a correlation between physical activity and stress?
 * Is there a correlation between working remotely and work stress?
+
+## Resources
+* [WHO API](https://www.who.int/data/gho/info/gho-odata-api)
+* [Corporate Stress Dataset India](https://www.kaggle.com/datasets/ashaychoudhary/corporate-stress-dataset-insights-into-workplace)
+* [Map API India](https://about.mappls.com/api/#mGIS-api)
